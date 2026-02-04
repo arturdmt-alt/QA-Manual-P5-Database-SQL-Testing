@@ -122,7 +122,8 @@ P5-Database-SQL-Testing/
 ### Bug Discovery - Films Without Inventory
 ![TC-009 Bug Discovery](images/TC-009_films_without_inventory_BUG.jpg)
 
-*Query execution showing 42 films with zero inventory copies*
+*Query execution showing examples of films with zero inventory copies (subset of results)*
+
 
 ---
 
