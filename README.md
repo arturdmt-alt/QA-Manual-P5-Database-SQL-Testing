@@ -110,6 +110,22 @@ P5-Database-SQL-Testing/
 
 **Recommendation:** Add inventory copies, implement availability flag, or confirm expected behavior for discontinued films.
 
+---
+
+## Visual Evidence
+
+### Jira Bug Tracking
+![Jira Project - BUG-001](images/jira-bug-tracking.jpg)
+
+*BUG-001 documented and tracked in Jira (P5SQL project)*
+
+### Bug Discovery - Films Without Inventory
+![TC-009 Bug Discovery](images/TC-009_films_without_inventory_BUG.jpg)
+
+*Query execution showing 42 films with zero inventory copies*
+
+---
+
 ## Database Information
 
 **Sakila Database Schema:**
