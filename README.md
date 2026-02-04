@@ -9,8 +9,9 @@ This project demonstrates comprehensive Manual Database Testing skills using MyS
 **Test Cases:** 20 executed  
 **Pass Rate:** 95% (19 PASS, 1 FAIL)  
 **Bugs Found:** 1 (Medium severity)  
-**Duration:** 4-5 days  
+**Bug Tracking:** Jira  
 **Testing Tool:** MySQL Workbench
+
 
 ## Objectives
 
